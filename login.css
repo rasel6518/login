@@ -1,0 +1,15 @@
+*{
+border: 010px;
+padding: 0px;
+;
+
+}
+
+body{
+    margin: 100px;
+    padding: 20px;
+    background-image: url(laptop.jpg);
+    background-repeat: no-repeat;
+    text-align: center;
+
+}
